@@ -3,7 +3,7 @@
 This is one of the projects I did during my university studies in Python Programming.
 The idea of the project was to implement a simplified logic of a vending machine.
 
-The .py file in this repository.
+The .py file is located in this repository as well.
 
 ## Instructions
 
